@@ -1,3 +1,19 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=flat-square&logo=selenium)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-Video%20Downloader-red?style=flat-square&logo=youtube)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-teal?style=flat-square&logo=webcomponents.org)
+![YouTube Scraper](https://img.shields.io/badge/YouTube--Scraper-YouTube%20Data-critical?style=flat-square&logo=youtube)
+![Async Python](https://img.shields.io/badge/Async--Python-asyncio-blueviolet?style=flat-square&logo=python)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey?style=flat-square&logo=sqlite)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-Analysis-orange?style=flat-square&logo=minutemailer)
+![VSCode](https://img.shields.io/badge/VSCode-IDE-007ACC?style=flat-square&logo=visual-studio-code)
+![MIT License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Robotic-yellowgreen?style=flat-square&logo=automation)
+![YouTube Comments](https://img.shields.io/badge/YouTube%20Comments-Scraped%20Data-red?style=flat-square&logo=youtube)
+![Video Metadata](https://img.shields.io/badge/Video%20Metadata-Info-informational?style=flat-square&logo=youtube)
+
+
+
 # 🎯 YouTube Channel Scraper with AsyncIO, Selenium & yt_dlp
 
 A fast, asynchronous YouTube scraper that extracts channel metadata, videos (including Shorts), comments, and replies using `asyncio`, `yt_dlp`, and `selenium`. The data is stored in a structured **SQLite** database with support for checkpointing, logging, and resumable scraping.
